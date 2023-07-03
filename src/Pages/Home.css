@@ -1,0 +1,5 @@
+#monika{
+    background: linear-gradient(to right, red, rgb(247, 243, 13),rgb(42, 238, 42));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
